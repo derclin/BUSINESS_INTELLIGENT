@@ -31,7 +31,7 @@ with open(css_file_path) as f:
 
  
 #load excel file
-df = pd.read_csv("C:\\Users\\yeko-\\OneDrive\\Documents\\Machine_learning\\exdata.csv")
+df = pd.read_csv("/home/adminuser/OneDrive/Documents/Machine_learning/exdata.csv")
 
 #side bar
 st.sidebar.image("data/logoQBIC.png",caption="Developed and Maintaned by: Derclin BONBHEL: DATA SCIENCE MASTER2 +33783961623")
