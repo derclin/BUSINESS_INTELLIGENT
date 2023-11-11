@@ -1,4 +1,3 @@
-https://businessintelligent-v3lg6q5cikazpudca6h2ea.streamlit.app/#analytics-dashboard
 Streamlit-Dashboard-Descriptive-Analytics-avec-MYSQL
 
 Qu’est-ce que l’analyse descriptive ?
